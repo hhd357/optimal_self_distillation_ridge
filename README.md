@@ -12,13 +12,13 @@
   - 'cifar100.py'
  
 - Asymptotic risk and estimation (Figure 4)
-  'asymptotic_risk_and_estimation'
+  - 'asymptotic_risk_and_estimation.py'
 
 - Asymptotic risk curves and gain (Figure 5)
-  'asymptotic_risk_curves_and_gain'
+  - 'asymptotic_risk_curves_and_gain.py'
 
 - Heatmap comparing with the optimal risk (Figure 6)
-  'heatmap.py'
+  - 'heatmap.py'
 
 
 ## Computation details
