@@ -2,22 +2,22 @@
 
 ## Scripts for computing theoretical, estimated, empirical risks and plot
 
-- Real-world regression tasks (Figure 2, 3)
+- Real-world regression tasks (Figure 2, Figure 3, Figure 12, Figure 13, Figure 14)
   - 'air_quality.py'
   - 'blogfeedback.py'
   - 'communities.py'
  
-- CIFAR10 and CIFAR100 experiments
+- CIFAR10 and CIFAR100 experiments (Figure 2c, Figure 9, Figure 10)
   - 'cifar10.py'
   - 'cifar100.py'
  
-- Asymptotic risk and estimation (Figure 4)
+- Asymptotic risk and estimation (Figure 4, Figure 15, Figure 16)
   - 'asymptotic_risk_and_estimation.py'
 
-- Asymptotic risk curves and gain (Figure 5)
+- Asymptotic risk curves and gain (Figure 5, Figure 17)
   - 'asymptotic_risk_curves_and_gain.py'
 
-- Heatmap comparing with the optimal risk (Figure 6)
+- Heatmap comparing with the optimal risk (Figure 6, Figure 18, Figure 19, Figure 20)
   - 'heatmap.py'
 
 
